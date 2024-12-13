@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "email": "lambdatestnew@yopmail.com",
+            "password": "Lambda123",
+            "homePageMessage": "Change your password",
+            "searchProduct": "iPod",
+            "addProductMessage":"Success: You have added iPod Touch to your shopping cart!"
+        }
+
+    ]
+}

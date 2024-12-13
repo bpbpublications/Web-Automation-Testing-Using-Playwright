@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Dec 25 09:43:59 IST 2023","Mon Dec 25 09:44:13 IST 2023","13275","chromium","lambdatesttLogin.spec.js","","","","Pass test Case",""
+"passed","Mon Dec 25 09:43:59 IST 2023","Mon Dec 25 09:44:13 IST 2023","13282","chromium","qaautomationLabs.spec.js","","","","QAAutomationLabs.com",""

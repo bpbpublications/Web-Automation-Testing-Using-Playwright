@@ -1,0 +1,17 @@
+{
+  "name": "playwright_chapter_10_playwright-accessibility-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.12.2"
+  },
+  "dependencies": {
+    "@axe-core/playwright": "^4.8.5"
+  }
+}
